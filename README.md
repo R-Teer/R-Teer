@@ -3,7 +3,7 @@
 
 ### Welcome to my Github
 Hi, My name is Ruairi, a full stack developer based within the United Kingdom and Middle East.  I specialise the development of custom tailor made softwares for small and medium sized businesses. Feel free to contact me if you have any questions or require any assistance.
-> **Current Status:** Working From Home.
+
 
 ### Latest
 - 🔭 I’m currently working on custom GUI for Mac OS
@@ -17,6 +17,4 @@ Hi, My name is Ruairi, a full stack developer based within the United Kingdom an
 🖥 Developer
 🎨 Designer
 
-
-View my blog [here](https://www.rteer.com/blog)
 
